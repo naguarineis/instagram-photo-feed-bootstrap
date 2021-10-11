@@ -1,0 +1,36 @@
+.arreglate1 {
+    background-image: url("https://picsum.photos/id/1000/400/300");
+    background-position: center;
+    background-size: cover;
+    /* border: 1px solid red; */
+    height: 400px;
+    background-repeat: no-repeat;
+}
+
+.arreglate2 {
+    background-image: url("https://picsum.photos/id/1025/400/300");
+    background-position: center;
+    background-size: cover;
+    /* border: 1px solid red; */
+    height: 400px;
+    background-repeat: no-repeat;
+}
+
+.arreglate3 {
+    background-image: url("https://picsum.photos/id/1050/400/300");
+    background-position: center;
+    background-size: cover;
+    /* border: 1px solid red; */
+    height: 400px;
+    background-repeat: no-repeat;
+}
+
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    background-color: #cccccc;
+}
+
+.row {
+    margin-right: 0;
+    margin-left: 0;
+}
